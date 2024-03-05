@@ -1,0 +1,10 @@
+# compiled output
+lib
+yarn.lock
+yarn-error.log
+
+# dependencies
+node_modules
+
+# IDEs and editors
+/.idea

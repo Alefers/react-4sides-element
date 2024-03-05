@@ -1,0 +1,33 @@
+{
+  "name": "react-4sides-element",
+  "version": "1.0.0",
+  "description": "Create any four sides figure for elements background",
+  "main": "lib/index.js",
+  "type": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "svg",
+    "background",
+    "element"
+  ],
+  "author": {
+    "name": "Anton Braim",
+    "email": "alefersxaoc@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefers/react-4sides-element.git"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.3.3"
+  }
+}
